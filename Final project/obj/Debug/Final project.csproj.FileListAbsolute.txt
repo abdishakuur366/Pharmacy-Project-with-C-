@@ -1,0 +1,67 @@
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\bin\Debug\Final project.exe
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\bin\Debug\Final project.pdb
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.csproj.AssemblyReference.cache
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.csproj.SuggestedBindingRedirects.cache
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.csproj.GenerateResource.cache
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.csproj.CoreCompileInputs.cache
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.exe
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.pdb
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmHome.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmCustomer.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmGallery.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmLogin.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final project.csproj.CopyComplete
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmLogout.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmEmp.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmLab.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmMedicine.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmRooms.resources
+C:\Users\shakr\OneDrive\Desktop\final project\Final project\obj\Debug\Final_project.frmTeam.resources
+E:\final project\Final project\bin\Debug\Final project.exe.config
+E:\final project\Final project\bin\Debug\Final project.exe
+E:\final project\Final project\bin\Debug\Final project.pdb
+E:\final project\Final project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\final project\Final project\obj\Debug\Final project.csproj.AssemblyReference.cache
+E:\final project\Final project\obj\Debug\Final project.csproj.SuggestedBindingRedirects.cache
+E:\final project\Final project\obj\Debug\Final_project.frmCustomer.resources
+E:\final project\Final project\obj\Debug\Final_project.frmEmp.resources
+E:\final project\Final project\obj\Debug\Final_project.frmGallery.resources
+E:\final project\Final project\obj\Debug\Final_project.frmLab.resources
+E:\final project\Final project\obj\Debug\Final_project.frmLogin.resources
+E:\final project\Final project\obj\Debug\Final_project.frmHome.resources
+E:\final project\Final project\obj\Debug\Final_project.frmLogout.resources
+E:\final project\Final project\obj\Debug\Final_project.frmMedicine.resources
+E:\final project\Final project\obj\Debug\Final_project.frmRooms.resources
+E:\final project\Final project\obj\Debug\Final_project.frmTeam.resources
+E:\final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+E:\final project\Final project\obj\Debug\Final project.csproj.GenerateResource.cache
+E:\final project\Final project\obj\Debug\Final project.csproj.CoreCompileInputs.cache
+E:\final project\Final project\obj\Debug\Final project.csproj.CopyComplete
+E:\final project\Final project\obj\Debug\Final project.exe
+E:\final project\Final project\obj\Debug\Final project.pdb
+D:\C# Projects JUST\final project\Final project\bin\Debug\Final project.exe.config
+D:\C# Projects JUST\final project\Final project\bin\Debug\Final project.exe
+D:\C# Projects JUST\final project\Final project\bin\Debug\Final project.pdb
+D:\C# Projects JUST\final project\Final project\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.csproj.AssemblyReference.cache
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmCustomer.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmEmp.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmGallery.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmLab.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmLogin.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmHome.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmLogout.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmMedicine.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmRooms.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.frmTeam.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.csproj.GenerateResource.cache
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.csproj.CoreCompileInputs.cache
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.csproj.CopyComplete
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.exe
+D:\C# Projects JUST\final project\Final project\obj\Debug\Final project.pdb

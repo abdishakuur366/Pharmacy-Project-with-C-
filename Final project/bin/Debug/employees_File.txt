@@ -1,0 +1,30 @@
+Emp F.name:Hassan
+Emp S.name:Nur
+Emp L.name:Hassan
+Emp Phone:0618430103
+Emp Gender:Male
+Emp Salary:2000
+Emp Shift:Morning
+
+Emp F.name:Abdishakur
+Emp S.name:Hassan
+Emp L.name:Mohamed
+Emp Phone:0615344458
+Emp Gender:Male
+Emp Salary:30000
+Emp Shift:Evening
+
+Emp F.name:
+Emp S.name:
+Emp L.name:
+Emp Phone:
+Emp Gender:
+Emp Salary:
+Emp Shift:
+Emp F.name:Bile
+Emp S.name:Hassan
+Emp L.name:Mohamed
+Emp Phone:0615579381
+Emp Gender:Male
+Emp Salary:20000
+Emp Shift:Night

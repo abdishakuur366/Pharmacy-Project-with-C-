@@ -1,0 +1,16 @@
+Medicine Name:barastamool
+Medicine Quantity:10
+Medicine PreDAte:2020
+Medicine ExpiryDate:2026
+Medicine Name:Sharoobo
+Medicine Quantity:3
+Medicine PreDAte:2020
+Medicine ExpiryDate:2026
+Medicine Name:kaabsool
+Medicine Quantity:2 bukis
+Medicine PreDAte:2020
+Medicine ExpiryDate:2027
+Medicine Name:Jumbo
+Medicine Quantity:20 xabo
+Medicine PreDAte:2010
+Medicine ExpiryDate:2030
